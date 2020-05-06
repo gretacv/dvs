@@ -1,5 +1,5 @@
 # dvs
-This repository contains the notebook that was used to create the charts that were used for the [visualize the membership 1 year](https://www.datavisualizationsociety.com/one-year-membership-challenge/2020/5/4/dvs-is-global-with-room-to-grow-wzw6x-ytd3c)challenge organised by the [Data Visualization Society](https://www.datavisualizationsociety.com/). 
+This repository contains the notebook that was used to create the charts that were used for the [visualize the membership 1 year](https://www.datavisualizationsociety.com/one-year-membership-challenge/2020/5/4/dvs-is-global-with-room-to-grow-wzw6x-ytd3c) challenge organised by the [Data Visualization Society](https://www.datavisualizationsociety.com/). 
 
 I did this in collaboration with [@fannycc](https://github.com/fannycc).
 
