@@ -3,6 +3,8 @@ This repository contains the notebook that was used to create the charts that we
 
 I did this in collaboration with [@fannycc](https://github.com/fannycc).
 
+A pdf version of the entry (with some typo corrections) can be found [here](https://github.com/gretacv/dvs/blob/master/DVS_2020.pdf).
+
 ## DESCRIPTION:
 We have based our charts on the dominant trait of each member and grouped them by country and month at which they joined. We have combined R coding and manual design.
 ## PROCESS:
